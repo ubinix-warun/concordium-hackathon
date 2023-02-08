@@ -2,7 +2,7 @@
 
 > Hackathon: Concordium Hackathon - The Future of Identity
 
-* Mainnet Addr:
+* Mainnet Addr: 3LRiBNQjJ8BrNe9D8QMHSmvvN6gwVwEjk5jnUNpVpkWaiiCN7r
 
 ## 1. Setup 'rust lang' toolchain.
 ```
@@ -41,8 +41,10 @@ concordium-client consensus status --grpc-port 10000 --grpc-ip node.testnet.conc
 
 ![Setting up](./Screenshot%202566-02-08%20at%2010.32.13.png "1-2-3")
 
-Addr (Testnet): 3PTTUfC2hToowW4saZFjqU9VstvAyzEiS5QQWQ1BBB1nj5xyDp
+* Addr (Testnet): 3PTTUfC2hToowW4saZFjqU9VstvAyzEiS5QQWQ1BBB1nj5xyDp
 
+
+### 5. Import Testnet key to concordium client's config.
 ```
 concordium-client config account import 3PTTUfC2hToowW4saZFjqU9VstvAyzEiS5QQWQ1BBB1nj5xyDp.export --name concordium-hackathon
 
