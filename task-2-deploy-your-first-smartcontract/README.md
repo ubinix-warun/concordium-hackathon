@@ -1,4 +1,4 @@
-# TASK 2: Deploy Your First Smart Contract
+# [TASK 2: Deploy Your First Smart Contract](https://gitcoin.co/issue/29742)
 
 > Hackathon: Concordium Hackathon - The Future of Identity
 
